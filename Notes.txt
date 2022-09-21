@@ -6,6 +6,12 @@ Sep 21
 Expirement #1: are clusters consisent throughout sentence blocks
 - create dataset of 100 sentence blocks v/
 - get embeddings of each block v/
-- cluster the block using wss and k-means
-    within clusters sum of squares
+- cluster the block using wss and k-means v/
+    within clusters sum of squares v/
 - compare the clusters
+
+To do:
+- finish wcss algo v/
+
+- wss analysis seems to suggest 5 is the best number of groups
+    - it should be noted that changes in the vectors are relatively small
