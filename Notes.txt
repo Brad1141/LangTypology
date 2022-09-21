@@ -1,0 +1,11 @@
+Sep 21
+- Downloaded three models mBERT, XLM, distilBERT
+- huggface has a sentence transformers organization
+- st org models are miniLM, distilBERT, and XLM
+
+Expirement #1: are clusters consisent throughout sentence blocks
+- create dataset of 100 sentence blocks v/
+- get embeddings of each block v/
+- cluster the block using wss and k-means
+    within clusters sum of squares
+- compare the clusters
