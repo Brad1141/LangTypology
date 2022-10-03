@@ -15,3 +15,8 @@ To do:
 
 - wss analysis seems to suggest 5 is the best number of groups
     - it should be noted that changes in the vectors are relatively small
+
+Oct 3
+- something is wrong with wcss
+    - the wcss value of the 15 cluster group should be 0
+    - average is wrong
