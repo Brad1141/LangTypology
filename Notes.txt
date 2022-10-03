@@ -20,3 +20,4 @@ Oct 3
 - something is wrong with wcss
     - the wcss value of the 15 cluster group should be 0
     - average is wrong
+- wcss is a smooth curve, this might sugguest that all elements are equally spaced
