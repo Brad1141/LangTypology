@@ -21,3 +21,9 @@ Oct 3
     - the wcss value of the 15 cluster group should be 0
     - average is wrong
 - wcss is a smooth curve, this might sugguest that all elements are equally spaced
+    - the embed vector curve matches the curve of data points that are equally spaced
+
+Oc 5
+- new idea:
+    - extract embeddings from a model which classifies the different languages
+    - use word2vec model for inspiration
