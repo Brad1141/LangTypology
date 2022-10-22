@@ -23,7 +23,12 @@ Oct 3
 - wcss is a smooth curve, this might sugguest that all elements are equally spaced
     - the embed vector curve matches the curve of data points that are equally spaced
 
-Oc 5
+Oct 5
 - new idea:
     - extract embeddings from a model which classifies the different languages
     - use word2vec model for inspiration
+
+Oct 22
+- using tf.keras.Sequential for classification model
+- how to pull data (word2vec inspo)
+    - 
