@@ -31,4 +31,10 @@ Oct 5
 Oct 22
 - using tf.keras.Sequential for classification model
 - how to pull data (word2vec inspo)
-    - 
+
+- NEW IDEA: Structure method
+    - a language is a Structure of communication
+    - parsing is a way to provide Structure to unstructed data
+    - to parse a language we create a decision tree
+        - decision tree tells us if a sentence is grammically correct or incorrect
+    - we can then compare these structures to find similarities in language
